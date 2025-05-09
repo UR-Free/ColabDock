@@ -1,5 +1,8 @@
 # INSTALL
 ```
+git clone git@github.com:UR-Free/ColabDock.git
+
+cd ColabDock
 conda env create -f environment.yml
 
 mkdir params
