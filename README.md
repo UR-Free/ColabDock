@@ -1,3 +1,8 @@
+# INSTALL
+```
+conda env create -f environment.yml
+```
+
 # ColabDock
 <b>Integrated structure prediction of protein–protein docking with experimental restraints using ColabDock</b>
 
